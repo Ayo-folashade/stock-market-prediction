@@ -1,0 +1,11 @@
+# Python-specific
+*.pyc
+__pycache__/
+
+# PyCharm-specific
+.idea/
+*.iml
+*.iws
+
+# Data files
+data/
